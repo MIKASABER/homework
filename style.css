@@ -1,0 +1,74 @@
+@import 'font-awesome.css';
+
+nav
+{
+list-style-type:none;
+margin:0;
+padding:0;
+position:fixed;
+float:right;
+text-align: center;
+}
+a.j:link,a.j:visited
+{
+display:block;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#bebebe;
+width:100px;
+text-align:center;
+padding:24px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a.j:hover,a.j:active
+{
+background-color:grey;
+}
+
+body {
+	background-image: url(dol.jpg);
+    background-size: cover;
+}
+
+#a img{
+	float:left;
+	width:120px;
+	height: 160px;
+	margin:0 20px 0 0;
+	padding: 1px;
+	border: 1px solid grey;
+}
+section h2{
+	padding-top:80px;
+	padding-bottom: 5px;
+	border-bottom:1px solid #ccc;
+}
+
+#page{
+	width:940px;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+#b img{	
+	float:left;
+	width:120px;
+	height: 160px;
+	margin:0 20px 0 0;
+}
+
+
+
+
+#c img{
+	float:left;
+	width:120px;
+	height: 160px;
+	margin:0 20px 0 0;
+}
+
+
+
+
+
